@@ -5,7 +5,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=sab51)](https://solved.ac/sab51)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![5y1ee's GitHub stats](https://github-readme-stats.vercel.app/api?username=5y1ee)](https://github.com/5y1ee/github-readme-stats)
 
 <!--
 **5y1ee/5y1ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
